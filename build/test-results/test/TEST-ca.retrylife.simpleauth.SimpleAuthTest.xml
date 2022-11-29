@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ca.retrylife.simpleauth.SimpleAuthTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-11-28T13:50:00" hostname="dumnersm-HP-ProBook-x360-11-G3-EE" time="0.645">
+  <properties/>
+  <testcase name="testHashMatchIncorrect" classname="ca.retrylife.simpleauth.SimpleAuthTest" time="0.284"/>
+  <testcase name="testHashMatchNoHash" classname="ca.retrylife.simpleauth.SimpleAuthTest" time="0.022"/>
+  <testcase name="testHashMatchNoPass" classname="ca.retrylife.simpleauth.SimpleAuthTest" time="0.117"/>
+  <testcase name="testHashGen" classname="ca.retrylife.simpleauth.SimpleAuthTest" time="0.133"/>
+  <testcase name="testHashMatch" classname="ca.retrylife.simpleauth.SimpleAuthTest" time="0.061"/>
+  <system-out><![CDATA[[SimpleAuth] Hash does not match scheme: PBKDF2WithHmacSHA1
+Generated Hash: $31$16$CJ0NbshnYOb_TJMDzfBPTk3M5nqHRkywz_c60Km0V7U
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
