@@ -1,5 +1,5 @@
-# Raider Robotics Parts Management
-The 5024 Inventory Management System (IMS) is a small side-project designed by two team members to provide a simple tool for locating items in our team's shop.
+# Rest Robotics Parts Management
+The 8774 Inventory Management System (IMS) is a small side-project designed by two team members to provide a simple tool for locating items in our team's shop.
 
 ## Features
 
